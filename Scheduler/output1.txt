@@ -1,0 +1,7 @@
+For input1.txt:
+FCFS: 640
+SSTF: 236
+SCAN: 236
+C-SCAN: 386
+LOOK: 208
+C-LOOK: 326

@@ -1,0 +1,7 @@
+For input4.txt:
+FCFS: 75
+SSTF: 55
+SCAN: 185
+C-SCAN: 363
+LOOK: 55
+C-LOOK: 75
